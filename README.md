@@ -29,7 +29,7 @@ We use the Fashion-MNIST dataset, a popular benchmark dataset for image classifi
 ```bash
 git clone https://github.com/pyritez3/DL-Autoenocoder.git
 
-cd YOUR_REPOSITORY
+cd DL-Autoenocoder
 ```
 2. Install the required libraries:
 
